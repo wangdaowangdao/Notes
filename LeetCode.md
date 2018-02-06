@@ -91,6 +91,8 @@
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 理解前序中序遍历的关系 |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 理解后序中序遍历的关系 |
 
+> 好大一桶矿泉水 for TR ⊙ˍ⊙
+
 ## 左程云讲解
 | **序号** | **题名** | **思路** |**分类** |
 | --- | --- | --- | --- |
@@ -98,6 +100,6 @@
 
 
 
-> 好大一桶矿泉水 for TR ⊙ˍ⊙
+
 
 
