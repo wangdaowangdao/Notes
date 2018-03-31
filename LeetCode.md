@@ -68,7 +68,7 @@
 
 ## 理解思路
 | **序号** | **题名** | **思路** |**分类**|
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/?tab=Description) | 利用链表 |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 双栈 |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 双队列 |
