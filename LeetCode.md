@@ -25,7 +25,7 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 基础二分 | 二分 |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | 插入式全排列 |  |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 上下对称，对角线再对称 |  |
-| 49 | [Group Anagrams](https://leetcode.com/problems/anagrams/) | 单词按字母顺序整理 |  |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 单词按字母顺序整理 |  |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 0，1，小于0，一半递归 |  |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 全局，局部 | DP |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 乘法有负负得正，大小都要保存 | DP |
